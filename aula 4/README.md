@@ -36,7 +36,7 @@ Mantenha o seu código organizado e bem indentado, e ele será muito mais fácil
 
 1. **Ponto e vírgula (`;`):** Certifique-se de que cada linha de código termina com um ponto e vírgula. Isso ajuda a evitar alguns problemas que podem aparecer quando o código é executado.
 
-2. **Nomes de Variáveis e Funções:** Os nomes devem ser claros e explicar o que a variável está guardando ou o que a função está fazendo. Por exemplo, se uma variável guarda a idade de uma pessoa, um bom nome seria `idadeDaPessoa`.
+2. **Nomes de Variáveis e Funções:** Os nomes devem ser claros e explicar o que a variável está guardando ou o que a função está fazendo. Por exemplo, se uma variável guarda a idade de uma pessoa, um bom nome seria `idadePessoa`.
 
 ### Sugestões Específicas:
 - No arquivo `ecolhadefilme.js`, revise a condição dentro do `if`. Parece que a condição usada não está correta para verificar se há tempo suficiente para assistir ao filme.
