@@ -6,6 +6,6 @@ let soma = numero + num ;
 
 if (numero % num == 0) {
     console.log ('O seu resultado foi:')
-}else {
+} else {
     console.log('O seu resultado não chegou a 10')
 }
