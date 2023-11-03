@@ -1,4 +1,6 @@
 # Atividade de Resumo: Lógica de Programação 🖥️
+
+### Pseudocódigo:
 ** Título do Capítulo: **  Pseudocódigo 
 
 ** Descrição do Conteúdo: ** 
@@ -7,7 +9,7 @@ Neste capítulo, é nos ensinado o método dos 5 Q 's em pseudocódigo, com prob
 ** Reflexão Pessoal: ** 
 Essa primeira parte do pseudocódigo me ajudou a entender mais como a programação funciona.
 
-
+###  Pseudocódigo continuação:
 ** Título do Capítulo: **  Pseudocódigo 2, 3, 4, 5 e 6 
 
 ** Descrição do Conteúdo: ** 
@@ -16,7 +18,7 @@ Neste capítulo, é reforçado com problemas do dia a dia usando o pseudocódigo
 ** Reflexão Pessoal: ** 
 Os problemas estão me ajudando muito a entender como tudo isso funciona.
 
-
+### Fluxogramas:
 ** Título do Capítulo: **  Criando soluções com fluxogramas
 
 ** Descrição do Conteúdo: ** 
@@ -25,7 +27,7 @@ Neste capítulo, nos mostra como o fluxograma facilita a compreensão de assunto
 ** Reflexão Pessoal: ** 
   Essa parte me ajudou a entender que existem diversas formas  de resolver um problema e de entender um problema. 
 
-
+### Python:
 ** Título do Capítulo: **  Python 
 
 ** Descrição do Conteúdo: **
@@ -34,7 +36,7 @@ Neste capítulo, é nos mostrado o que é python e como alguém que não tem com
  ** Reflexão Pessoal: ** 
 Essa  parte me ajudou a entender o que é o python.
 
-
+### Variáveis:
 ** Título do Capítulo: **  Variáveis 
 
 ** Descrição do Conteúdo: **
@@ -42,7 +44,7 @@ Neste capítulo, é nos ensinado como podemos usar variáveis na programação  
  ** Reflexão Pessoal: ** 
 Essa parte me ajudou a entender mais sobre as variáveis e como usá-las.  
 
-
+### Condicionais:
 ** Título do Capítulo: **   Condicionais
 
 ** Descrição do Conteúdo: **
@@ -52,7 +54,7 @@ o ‘’ else ‘’.
  ** Reflexão Pessoal: ** 
 Foi muito interessante aprender melhor como usar os condicionais nessa parte.
 
-
+### Laços de Repetição:
 ** Título do Capítulo: **  Laços de Repetição 
 
 ** Descrição do Conteúdo: **
@@ -61,7 +63,7 @@ Neste capítulo, é mostrado como usar o laço de repetição, ele é muito usad
  ** Reflexão Pessoal: ** 
 Essa parte me mostrou como usar um laço de repetição e ver como é fácil usar um. 
 
-
+### Coleções:
 ** Título do Capítulo: ** Coleções (Listas)
 
 ** Descrição do Conteúdo: **
@@ -70,7 +72,7 @@ Neste capítulo, é mostrado melhor como usar as coleções além de ensinar com
  ** Reflexão Pessoal: ** 
 Essa parte me ajudou a entender bem melhor como usar as listas.  
 
-
+### Projetos:
 ** Título do Capítulo: ** Projetos 1,2 e 3
 
 ** Descrição do Conteúdo: **
