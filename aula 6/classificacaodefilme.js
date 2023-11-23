@@ -1,11 +1,12 @@
-let avaliacao_do_filme = 3.3;
+let filme1 = 3.3;
+let filme2 = 7;
 
+if (filme1 && filme2) {
 
-if (avaliacao_do_filme < 5 ) {
+}
 
-    console.log ('O filme é ruim');
-
-} else if (avaliacao_do_filme >= 0) {
-
-    console.log ("O filme é ruim"); 
+if (filme1 > 5) {
+    console.log('O filme é mediano.');
+} else if (filme2 >= 7) {
+    console.log('O filme é bom.');
 }
